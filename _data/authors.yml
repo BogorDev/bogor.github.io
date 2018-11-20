@@ -1,0 +1,16 @@
+# Authors
+
+Iman Sugirman:
+  name          : "Iman Sugirman"
+  picture       : /assets/images/imansugirman.jpg
+  url           : /tentang-saya/
+  email         : hello@desiredpersona.co
+  bio           : Web Designer. Developer. Digital Marketers
+  post_meta_bio : Web Designer. Developer. Digital Marketers
+  cta           : Follow
+  cta_url       : https://twitter.com/nakamuraagatha
+  twitter:
+    card        : "summary_large_image"
+    username    : "nakamuraagatha"
+  google_plus   : NakamuraAgathaCeo
+  facebook      : nakamuraagatha
